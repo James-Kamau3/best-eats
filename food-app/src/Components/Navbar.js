@@ -7,11 +7,8 @@ import { FaUserFriends, FaWallet } from "react-icons/fa";
 import { MdHelp,MdFavorite } from "react-icons/md";
 
 
-
-
 function Navbar() {
     const [open, setOpen] = useState(false);
-
 
   return (
     <div className='max-w-[1640px] mx-auto flex justify-between items-center p-4'>
