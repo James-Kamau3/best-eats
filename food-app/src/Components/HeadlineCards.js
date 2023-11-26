@@ -1,6 +1,6 @@
 import React from 'react'
 
-function FoodCards() {
+function HeadlineCards() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function FoodCards() {
   )
 }
 
-export default FoodCards
+export default HeadlineCards
